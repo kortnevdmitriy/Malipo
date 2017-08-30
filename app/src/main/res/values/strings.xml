@@ -3,4 +3,6 @@
     <string name="action_settings">Settings</string>
 
     <string name="btn_buy">Buy with Credit</string>
+    <string name="com.stripe.publishable_key" translatable="false">pk_test_BWrd6eeXt5dJES3GVdC4rwRm</string>
+
 </resources>

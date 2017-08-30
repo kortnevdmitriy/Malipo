@@ -62,6 +62,9 @@
                 <action android:name="mp.info.PAYMENT_STATUS_CHANGED" />
             </intent-filter>
         </receiver>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="c023698d440db1ba5e7b8b2d450066c4a32f57f4" />
     </application>
 
 
